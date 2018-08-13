@@ -1,0 +1,1 @@
+Este projeto contém um exemplo de um WebService Básico com os métodos GET POST PUT E DELETE, e saída em JSON com a API GSON do Google e validação de URL.

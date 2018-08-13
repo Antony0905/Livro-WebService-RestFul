@@ -1,0 +1,1 @@
+Esse projeto contém um exemplo de conversões de uma classe ou uma lista de carros para XML ou JSON, com JAXB, JETTISON e GSON

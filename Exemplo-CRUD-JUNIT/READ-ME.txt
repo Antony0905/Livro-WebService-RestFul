@@ -1,0 +1,1 @@
+Este projeto contém um exemplo de um CRUD bem estruturado e testes com JUnit das chamadas com o Banco MySQL.
